@@ -1,7 +1,3 @@
-# <center> Ein Schnellkurs in Python und Jupyter Notebook im Kontext der mathematischen Optimierung</center>
-
-<center> Christoph Neumann <br> Karlsruher Institut für Technologie <br> <a href="mailto:Christoph.Neumann89@gmail.com">Christoph.Neumann89@gmail.com</a> </center>
-
 Diese Kurzeinführung in Python orientiert sich an "Schnellkurs in Matlab" von Prof. Dr. Oliver Stein. 
 Dieser Schnellkurs soll den Leser in die Lage versetzen, einfache numerische Berechnungen, Optimierungsmodelle und Visulaisierungen in Python zu erstellen. Einige Berechnungen wirken für den erfahrenen Matlab-Nutzer möglicherweise etwas umständlich. Dies resultiert daraus, dass Python im Gegensatz zu Matlab eine vollwertige Programmiersprache ist, deren Fokus nicht primär auf Matrixoperationen liegt. Dennoch bietet Python für unsere Anwendungen einen vollwertigen Ersatz für Matlab.
 
